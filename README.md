@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://codeandhack.com/wp-content/uploads/2023/06/coding-person-ws-theme.jpg">
 
-- 🌱 I’m currently learning **Angular & Spring Boot**
+- 🌱 I’m currently learning **DSA Using JAVA & Spring Boot**
 
 - 📫 How to reach me **rojalinshaw696@gmail.com**
 
